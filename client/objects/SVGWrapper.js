@@ -1,5 +1,6 @@
 import { asyncSleep } from "../helpers/game_helper";
 import { isTypeObject } from "../helpers/type_helper";
+import textLocations from '../data/textlocations.json';
 
 const xmlns = "http://www.w3.org/2000/svg";
 
@@ -326,7 +327,14 @@ export class SVGText extends SVGElement {
   constructor(label) {
     super()
     this._node = document.createElementNS(xmlns, "text")
-    this.text(label)
+    if (textLocations && textLocations[label] && textLocations[label].labelBounds && 'displayName' in textLocations[label].labelBounds) 
+    {
+      this.text(textLocations[label].labelBounds.displayName)
+    }
+    else
+    {
+        this.text(label)
+    }
   }
 
   text(label) {

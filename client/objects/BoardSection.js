@@ -146,11 +146,12 @@ class BoardSection {
       const { left, top } = textLocations[place].labelBounds;
       const x = left + LEFT;
       const y = top + TOP;
-      new SVGWrapper.SVGText(place)
-                  .attachTo(this.boardGroup)
-                  .attr("dominant-baseline", "hanging")
-                  .attr("font-size", "18px")
-                  .move(x, y)
+
+        new SVGWrapper.SVGText(place)
+        .attachTo(this.boardGroup)
+        .attr("dominant-baseline", "hanging")
+        .attr("font-size", "18px")
+        .move(x, y)
 
       this.renderPin(place)
     }
