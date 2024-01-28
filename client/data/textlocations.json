@@ -57,7 +57,7 @@
 	},
 	"Moskva": {
 		"labelBounds": {
-			"displayName": "Moskou",
+			"displayName": "",
 			"width": 73.5,
 			"height": 17,
 			"top": 205.8000030517578,
@@ -95,7 +95,7 @@
 	},
 	"Venezia": {
 		"labelBounds": {
-			"displayName": "Venetië",
+			"displayName": "",
 			"width": 75.5,
 			"height": 17.016677856445314,
 			"top": 585.5833129882813,
@@ -152,7 +152,7 @@
 	},
 	"Bruxelles": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 91.20001220703125,
 			"height": 17,
 			"top": 305.79998779296877,
@@ -171,7 +171,7 @@
 	},
 	"Lisboa": {
 		"labelBounds": {
-			"displayName": "Lissabon",
+			"displayName": "",
 			"width": 64.03334045410156,
 			"height": 17.01666259765625,
 			"top": 812.7833251953125,
@@ -247,7 +247,7 @@
 	},
 	"Sofia": {
 		"labelBounds": {
-			"displayName": "Sofia",
+			"displayName": "",
 			"width": 48.333343505859378,
 			"height": 17,
 			"top": 717.933349609375,
@@ -285,7 +285,7 @@
 	},
 	"Athina": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 62.43333435058594,
 			"height": 17.016677856445314,
 			"top": 825.5833129882813,
@@ -304,7 +304,7 @@
 	},
 	"Madrid": {
 		"labelBounds": {
-			"displayName": "Madrid",
+			"displayName": "",
 			"width": 68.33332824707031,
 			"height": 17,
 			"top": 786.5833129882813,
@@ -323,7 +323,7 @@
 	},
 	"Palermo": {
 		"labelBounds": {
-			"displayName": "Palermo",
+			"displayName": "",
 			"width": 81.56666564941406,
 			"height": 17,
 			"top": 884.5833129882813,
@@ -342,7 +342,7 @@
 	},
 	"Marseille": {
 		"labelBounds": {
-			"displayName": "Marseille",
+			"displayName": "",
 			"width": 88.89999389648438,
 			"height": 17,
 			"top": 676.5833129882813,
@@ -361,7 +361,7 @@
 	},
 	"Barcelona": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 98.71665954589844,
 			"height": 17,
 			"top": 813.7999877929688,
@@ -380,7 +380,7 @@
 	},
 	"Paris": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 47.75,
 			"height": 17.016677856445314,
 			"top": 409.58331298828127,
@@ -494,7 +494,7 @@
 	},
 	"Roma": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 56.33332824707031,
 			"height": 17.01666259765625,
 			"top": 712.4500122070313,
@@ -513,7 +513,7 @@
 	},
 	"Berlin": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 57.94999694824219,
 			"height": 17,
 			"top": 253.79998779296876,
@@ -551,7 +551,7 @@
 	},
 	"Edinburgh": {
 		"labelBounds": {
-			"displayName": "Edinburgh",
+			"displayName": "",
 			"width": 100.14999389648438,
 			"height": 17,
 			"top": 23.149993896484376,
@@ -570,7 +570,7 @@
 	},
 	"London": {
 		"labelBounds": {
-			"displayName": "Londen",
+			"displayName": "",
 			"width": 73.89999389648438,
 			"height": 17,
 			"top": 273.4666748046875,
@@ -589,7 +589,7 @@
 	},
 	"Amsterdam": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 112.76667785644531,
 			"height": 17,
 			"top": 256.58331298828127,
@@ -627,7 +627,7 @@
 	},
 	"Stockholm": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 104.10000610351563,
 			"height": 17,
 			"top": 3.8000030517578127,
@@ -665,7 +665,7 @@
 	},
 	"Wien": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 51.399993896484378,
 			"height": 17,
 			"top": 441.79998779296877,
@@ -684,7 +684,7 @@
 	},
 	"Munchen": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 90.0333251953125,
 			"height": 17.01666259765625,
 			"top": 427.7833251953125,
@@ -703,7 +703,7 @@
 	},
 	"Zurich": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 62,
 			"height": 17.01666259765625,
 			"top": 503.7833251953125,
@@ -722,7 +722,7 @@
 	},
 	"Kobenhavn": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 108.5333251953125,
 			"height": 17,
 			"top": 102.58332824707031,
@@ -760,7 +760,7 @@
 	},
 	"Budapest": {
 		"labelBounds": {
-			"displayName": "Boedapest",
+			"displayName": "",
 			"width": 93.33334350585938,
 			"height": 17.01666259765625,
 			"top": 477.7833251953125,
@@ -798,7 +798,7 @@
 	},
 	"Warszawa": {
 		"labelBounds": {
-			"displayName": "............",
+			"displayName": "",
 			"width": 98.75,
 			"height": 17.016677856445314,
 			"top": 287.51666259765627,
@@ -855,7 +855,7 @@
 	},
 	"Bucuresti": {
 		"labelBounds": {
-			"displayName": "Boekarest",
+			"displayName": "",
 			"width": 92.63333129882813,
 			"height": 17,
 			"top": 600.5833129882813,
@@ -874,7 +874,7 @@
 	},
 	"Constantinople": {
 		"labelBounds": {
-			"displayName": "Constantinopel",
+			"displayName": "",
 			"width": 147.31668090820313,
 			"height": 17.016677856445314,
 			"top": 764.7166748046875,
