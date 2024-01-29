@@ -15,7 +15,7 @@ const rad2deg = r=>r*180.0/Math.PI
 
 const COLOR_MAP = { black: '#3A535D', gray: '#A8A8A8', white: '#E5E6EA', 
                     green: '#86C247', purple: '#BD7394', orange: '#E5913A',
-                    blue: '#00ADED', yellow: '#FFE650', red: '#CB2926' }
+                    blue: '#00ADED', yellow: '#FFE650', red: '#CB2926', brown:"#6C3B1C" }
 
 
 class BoardSection {

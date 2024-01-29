@@ -75,7 +75,7 @@
     {
       "source": "Amsterdam",
       "target": "London",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 439.43963623046875,
@@ -86,7 +86,7 @@
     {
       "source": "Amsterdam",
       "target": "London",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 364.5050048828125,
@@ -99,7 +99,7 @@
     {
       "source": "Angora",
       "target": "Constantinople",
-      "color": "gray",
+      "color": "blue",
       "index": 0,
       "group": 0,
       "x1": 1342.0352783203125,
@@ -110,7 +110,7 @@
     {
       "source": "Angora",
       "target": "Constantinople",
-      "color": "gray",
+      "color": "blue",
       "index": 1,
       "group": 0,
       "x1": 1295.06201171875,
@@ -193,7 +193,7 @@
     {
       "source": "Athina",
       "target": "Brindisi",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 998.4217529296875,
@@ -204,7 +204,7 @@
     {
       "source": "Athina",
       "target": "Brindisi",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 933.8731689453125,
@@ -215,7 +215,7 @@
     {
       "source": "Athina",
       "target": "Brindisi",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 900.7303466796875,
@@ -226,7 +226,7 @@
     {
       "source": "Athina",
       "target": "Brindisi",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 851.3452758789062,
@@ -285,7 +285,7 @@
     {
       "source": "Athina",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1079.1773681640625,
@@ -296,7 +296,7 @@
     {
       "source": "Athina",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1142.559326171875,
@@ -368,7 +368,7 @@
     {
       "source": "Barcelona",
       "target": "Marseille",
-      "color": "gray",
+      "color": "yellow",
       "index": 0,
       "group": 0,
       "x1": 352.6412048339844,
@@ -379,7 +379,7 @@
     {
       "source": "Barcelona",
       "target": "Marseille",
-      "color": "gray",
+      "color": "yellow",
       "index": 1,
       "group": 0,
       "x1": 397.35296630859375,
@@ -390,7 +390,7 @@
     {
       "source": "Barcelona",
       "target": "Marseille",
-      "color": "gray",
+      "color": "yellow",
       "index": 2,
       "group": 0,
       "x1": 447.92767333984375,
@@ -401,7 +401,7 @@
     {
       "source": "Barcelona",
       "target": "Marseille",
-      "color": "gray",
+      "color": "yellow",
       "index": 3,
       "group": 0,
       "x1": 505.2103271484375,
@@ -414,7 +414,7 @@
     {
       "source": "Barcelona",
       "target": "Pamplona",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 281.754150390625,
@@ -425,7 +425,7 @@
     {
       "source": "Barcelona",
       "target": "Pamplona",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 286.9781494140625,
@@ -438,7 +438,7 @@
     {
       "source": "Berlin",
       "target": "Danzig",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 778.6339111328125,
@@ -449,7 +449,7 @@
     {
       "source": "Berlin",
       "target": "Danzig",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 792.1968383789062,
@@ -460,7 +460,7 @@
     {
       "source": "Berlin",
       "target": "Danzig",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 834.1473388671875,
@@ -471,7 +471,7 @@
     {
       "source": "Berlin",
       "target": "Danzig",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 897.546142578125,
@@ -810,7 +810,7 @@
     {
       "source": "Brindisi",
       "target": "Palermo",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 834.97119140625,
@@ -821,7 +821,7 @@
     {
       "source": "Brindisi",
       "target": "Palermo",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 841.0714721679688,
@@ -832,7 +832,7 @@
     {
       "source": "Brindisi",
       "target": "Palermo",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 804.9545288085938,
@@ -965,7 +965,7 @@
     {
       "source": "Bucuresti",
       "target": "Budapest",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1171.8372802734375,
@@ -976,7 +976,7 @@
     {
       "source": "Bucuresti",
       "target": "Budapest",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1120.359619140625,
@@ -987,7 +987,7 @@
     {
       "source": "Bucuresti",
       "target": "Budapest",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 1065.986328125,
@@ -998,7 +998,7 @@
     {
       "source": "Bucuresti",
       "target": "Budapest",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 1011.9346923828125,
@@ -1046,7 +1046,7 @@
     {
       "source": "Bucuresti",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "orange",
       "index": 0,
       "group": 0,
       "x1": 1188.5675048828125,
@@ -1057,7 +1057,7 @@
     {
       "source": "Bucuresti",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "orange",
       "index": 1,
       "group": 0,
       "x1": 1208.193359375,
@@ -1068,7 +1068,7 @@
     {
       "source": "Bucuresti",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "orange",
       "index": 2,
       "group": 0,
       "x1": 1226.2105712890625,
@@ -1079,7 +1079,7 @@
     {
       "source": "Bucuresti",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "orange",
       "index": 3,
       "group": 0,
       "x1": 1248.60986328125,
@@ -1138,7 +1138,7 @@
     {
       "source": "Bucuresti",
       "target": "Sofia",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1170.55029296875,
@@ -1149,7 +1149,7 @@
     {
       "source": "Bucuresti",
       "target": "Sofia",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1110.3857421875,
@@ -1162,7 +1162,7 @@
     {
       "source": "Budapest",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 952.41357421875,
@@ -1173,7 +1173,7 @@
     {
       "source": "Budapest",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 995.2044677734375,
@@ -1184,7 +1184,7 @@
     {
       "source": "Budapest",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 1045.7169189453125,
@@ -1195,7 +1195,7 @@
     {
       "source": "Budapest",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 1098.4815673828125,
@@ -1206,7 +1206,7 @@
     {
       "source": "Budapest",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 4,
       "group": 0,
       "x1": 1155.75048828125,
@@ -1217,7 +1217,7 @@
     {
       "source": "Budapest",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 5,
       "group": 0,
       "x1": 1217.845458984375,
@@ -1374,7 +1374,7 @@
     {
       "source": "Constantinople",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "orange",
       "index": 0,
       "group": 0,
       "x1": 1287.34033203125,
@@ -1385,7 +1385,7 @@
     {
       "source": "Constantinople",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "orange",
       "index": 1,
       "group": 0,
       "x1": 1318.011474609375,
@@ -1396,7 +1396,7 @@
     {
       "source": "Constantinople",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "orange",
       "index": 2,
       "group": 0,
       "x1": 1370.065673828125,
@@ -1407,7 +1407,7 @@
     {
       "source": "Constantinople",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "orange",
       "index": 3,
       "group": 0,
       "x1": 1395.8900146484375,
@@ -1420,7 +1420,7 @@
     {
       "source": "Constantinople",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1236.1844482421875,
@@ -1431,7 +1431,7 @@
     {
       "source": "Constantinople",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1210.445556640625,
@@ -1514,7 +1514,7 @@
     {
       "source": "Danzig",
       "target": "Warszawa",
-      "color": "gray",
+      "color": "orange",
       "index": 0,
       "group": 0,
       "x1": 976.7156982421875,
@@ -1525,7 +1525,7 @@
     {
       "source": "Danzig",
       "target": "Warszawa",
-      "color": "gray",
+      "color": "orange",
       "index": 1,
       "group": 0,
       "x1": 1028.444091796875,
@@ -1538,7 +1538,7 @@
     {
       "source": "Dieppe",
       "target": "London",
-      "color": "gray",
+      "color": "blue",
       "index": 0,
       "group": 0,
       "x1": 269.54046630859375,
@@ -1549,7 +1549,7 @@
     {
       "source": "Dieppe",
       "target": "London",
-      "color": "gray",
+      "color": "blue",
       "index": 1,
       "group": 0,
       "x1": 269.1020812988281,
@@ -1562,7 +1562,7 @@
     {
       "source": "Dieppe",
       "target": "London",
-      "color": "gray",
+      "color": "green",
       "index": 0,
       "group": 1,
       "x1": 288.07061767578125,
@@ -1573,7 +1573,7 @@
     {
       "source": "Dieppe",
       "target": "London",
-      "color": "gray",
+      "color": "green",
       "index": 1,
       "group": 1,
       "x1": 288.3081359863281,
@@ -1691,7 +1691,7 @@
     {
       "source": "Erzurum",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "blue",
       "index": 0,
       "group": 0,
       "x1": 1470.7296142578125,
@@ -1702,7 +1702,7 @@
     {
       "source": "Erzurum",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "blue",
       "index": 1,
       "group": 0,
       "x1": 1434.3238525390625,
@@ -1713,7 +1713,7 @@
     {
       "source": "Erzurum",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "blue",
       "index": 2,
       "group": 0,
       "x1": 1422.5970458984375,
@@ -1724,7 +1724,7 @@
     {
       "source": "Erzurum",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "blue",
       "index": 3,
       "group": 0,
       "x1": 1423.431640625,
@@ -1796,7 +1796,7 @@
     {
       "source": "Essen",
       "target": "Kobenhavn",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 613.6334838867188,
@@ -1807,7 +1807,7 @@
     {
       "source": "Essen",
       "target": "Kobenhavn",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 637.0714111328125,
@@ -1818,7 +1818,7 @@
     {
       "source": "Essen",
       "target": "Kobenhavn",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 660.7951049804688,
@@ -1831,7 +1831,7 @@
     {
       "source": "Essen",
       "target": "Kobenhavn",
-      "color": "gray",
+      "color": "green",
       "index": 0,
       "group": 1,
       "x1": 629.8318481445312,
@@ -1842,7 +1842,7 @@
     {
       "source": "Essen",
       "target": "Kobenhavn",
-      "color": "gray",
+      "color": "green",
       "index": 1,
       "group": 1,
       "x1": 654.7069091796875,
@@ -1853,7 +1853,7 @@
     {
       "source": "Essen",
       "target": "Kobenhavn",
-      "color": "gray",
+      "color": "green",
       "index": 2,
       "group": 1,
       "x1": 676.0484008789062,
@@ -1960,7 +1960,7 @@
     {
       "source": "Kharkov",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1486.7447509765625,
@@ -1971,7 +1971,7 @@
     {
       "source": "Kharkov",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1375.087158203125,
@@ -1982,7 +1982,7 @@
     {
       "source": "Kharkov",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 1319.8892822265625,
@@ -1993,7 +1993,7 @@
     {
       "source": "Kharkov",
       "target": "Kyiv",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 1293.078857421875,
@@ -2006,7 +2006,7 @@
     {
       "source": "Kharkov",
       "target": "Moskva",
-      "color": "gray",
+      "color": "yellow",
       "index": 0,
       "group": 0,
       "x1": 1552.6668701171875,
@@ -2017,7 +2017,7 @@
     {
       "source": "Kharkov",
       "target": "Moskva",
-      "color": "gray",
+      "color": "yellow",
       "index": 1,
       "group": 0,
       "x1": 1570.645751953125,
@@ -2028,7 +2028,7 @@
     {
       "source": "Kharkov",
       "target": "Moskva",
-      "color": "gray",
+      "color": "yellow",
       "index": 2,
       "group": 0,
       "x1": 1565.2835693359375,
@@ -2039,7 +2039,7 @@
     {
       "source": "Kharkov",
       "target": "Moskva",
-      "color": "gray",
+      "color": "yellow",
       "index": 3,
       "group": 0,
       "x1": 1537.52685546875,
@@ -2181,7 +2181,7 @@
     {
       "source": "Kyiv",
       "target": "Warszawa",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1216.23681640625,
@@ -2192,7 +2192,7 @@
     {
       "source": "Kyiv",
       "target": "Warszawa",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1155.4287109375,
@@ -2203,7 +2203,7 @@
     {
       "source": "Kyiv",
       "target": "Warszawa",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 1096.8729248046875,
@@ -2214,7 +2214,7 @@
     {
       "source": "Kyiv",
       "target": "Warszawa",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 1051.8299560546875,
@@ -2227,7 +2227,7 @@
     {
       "source": "Kyiv",
       "target": "Wilno",
-      "color": "gray",
+      "color": "black",
       "index": 0,
       "group": 0,
       "x1": 1286.455078125,
@@ -2238,7 +2238,7 @@
     {
       "source": "Kyiv",
       "target": "Wilno",
-      "color": "gray",
+      "color": "black",
       "index": 1,
       "group": 0,
       "x1": 1282.6700439453125,
@@ -2402,7 +2402,7 @@
     {
       "source": "Marseille",
       "target": "Paris",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 521.24658203125,
@@ -2413,7 +2413,7 @@
     {
       "source": "Marseille",
       "target": "Paris",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 485.77642822265625,
@@ -2424,7 +2424,7 @@
     {
       "source": "Marseille",
       "target": "Paris",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 432.739990234375,
@@ -2435,7 +2435,7 @@
     {
       "source": "Marseille",
       "target": "Paris",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 398.32086181640625,
@@ -2448,7 +2448,7 @@
     {
       "source": "Marseille",
       "target": "Roma",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 548.7626342773438,
@@ -2459,7 +2459,7 @@
     {
       "source": "Marseille",
       "target": "Roma",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 600.9998168945312,
@@ -2470,7 +2470,7 @@
     {
       "source": "Marseille",
       "target": "Roma",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 645.3057250976562,
@@ -2481,7 +2481,7 @@
     {
       "source": "Marseille",
       "target": "Roma",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 678.3222045898438,
@@ -2671,7 +2671,7 @@
     {
       "source": "Palermo",
       "target": "Roma",
-      "color": "gray",
+      "color": "blue",
       "index": 0,
       "group": 0,
       "x1": 820.7057495117188,
@@ -2682,7 +2682,7 @@
     {
       "source": "Palermo",
       "target": "Roma",
-      "color": "gray",
+      "color": "blue",
       "index": 1,
       "group": 0,
       "x1": 825.8645629882812,
@@ -2693,7 +2693,7 @@
     {
       "source": "Palermo",
       "target": "Roma",
-      "color": "gray",
+      "color": "blue",
       "index": 2,
       "group": 0,
       "x1": 790.7845458984375,
@@ -2704,7 +2704,7 @@
     {
       "source": "Palermo",
       "target": "Roma",
-      "color": "gray",
+      "color": "blue",
       "index": 3,
       "group": 0,
       "x1": 737.4767456054688,
@@ -2717,7 +2717,7 @@
     {
       "source": "Palermo",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "yellow",
       "index": 0,
       "group": 0,
       "x1": 833.0497436523438,
@@ -2728,7 +2728,7 @@
     {
       "source": "Palermo",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "yellow",
       "index": 1,
       "group": 0,
       "x1": 893.5360107421875,
@@ -2739,7 +2739,7 @@
     {
       "source": "Palermo",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "yellow",
       "index": 2,
       "group": 0,
       "x1": 953.3787841796875,
@@ -2750,7 +2750,7 @@
     {
       "source": "Palermo",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "yellow",
       "index": 3,
       "group": 0,
       "x1": 1013.54345703125,
@@ -2761,7 +2761,7 @@
     {
       "source": "Palermo",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "yellow",
       "index": 4,
       "group": 0,
       "x1": 1071.455810546875,
@@ -2772,7 +2772,7 @@
     {
       "source": "Palermo",
       "target": "Smyrna",
-      "color": "gray",
+      "color": "yellow",
       "index": 5,
       "group": 0,
       "x1": 1131.6202392578125,
@@ -2877,7 +2877,7 @@
     {
       "source": "Paris",
       "target": "Zurich",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 415.5660400390625,
@@ -2888,7 +2888,7 @@
     {
       "source": "Paris",
       "target": "Zurich",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 450.64605712890625,
@@ -2899,7 +2899,7 @@
     {
       "source": "Paris",
       "target": "Zurich",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 507.39312744140625,
@@ -2912,7 +2912,7 @@
     {
       "source": "Petrograd",
       "target": "Riga",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1295.9176025390625,
@@ -2923,7 +2923,7 @@
     {
       "source": "Petrograd",
       "target": "Riga",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1236.619140625,
@@ -2934,7 +2934,7 @@
     {
       "source": "Petrograd",
       "target": "Riga",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 1175.1129150390625,
@@ -2945,7 +2945,7 @@
     {
       "source": "Petrograd",
       "target": "Riga",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 1115.8145751953125,
@@ -2958,7 +2958,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 0,
       "group": 0,
       "x1": 1306.326416015625,
@@ -2969,7 +2969,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 1,
       "group": 0,
       "x1": 1242.893798828125,
@@ -2980,7 +2980,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 2,
       "group": 0,
       "x1": 1181.6376953125,
@@ -2991,7 +2991,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 3,
       "group": 0,
       "x1": 1114.8614501953125,
@@ -3002,7 +3002,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 4,
       "group": 0,
       "x1": 1056.18310546875,
@@ -3013,7 +3013,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 5,
       "group": 0,
       "x1": 994.4759521484375,
@@ -3024,7 +3024,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 6,
       "group": 0,
       "x1": 925.109375,
@@ -3035,7 +3035,7 @@
     {
       "source": "Petrograd",
       "target": "Stockholm",
-      "color": "gray",
+      "color": "orange",
       "index": 7,
       "group": 0,
       "x1": 849.7257080078125,
@@ -3164,7 +3164,7 @@
     {
       "source": "Rostov",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 1502.4925537109375,
@@ -3175,7 +3175,7 @@
     {
       "source": "Rostov",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 1443.3709716796875,
@@ -3186,7 +3186,7 @@
     {
       "source": "Rostov",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "brown",
       "index": 2,
       "group": 0,
       "x1": 1434.9342041015625,
@@ -3197,7 +3197,7 @@
     {
       "source": "Rostov",
       "target": "Sevastopol",
-      "color": "gray",
+      "color": "brown",
       "index": 3,
       "group": 0,
       "x1": 1420.1334228515625,
@@ -3210,7 +3210,7 @@
     {
       "source": "Rostov",
       "target": "Sochi",
-      "color": "gray",
+      "color": "blue",
       "index": 0,
       "group": 0,
       "x1": 1569.2181396484375,
@@ -3221,7 +3221,7 @@
     {
       "source": "Rostov",
       "target": "Sochi",
-      "color": "gray",
+      "color": "blue",
       "index": 1,
       "group": 0,
       "x1": 1565.4493408203125,
@@ -3234,7 +3234,7 @@
     {
       "source": "Sarajevo",
       "target": "Sofia",
-      "color": "gray",
+      "color": "orange",
       "index": 0,
       "group": 0,
       "x1": 1003.2479248046875,
@@ -3245,7 +3245,7 @@
     {
       "source": "Sarajevo",
       "target": "Sofia",
-      "color": "gray",
+      "color": "orange",
       "index": 1,
       "group": 0,
       "x1": 1060.1949462890625,
@@ -3258,7 +3258,7 @@
     {
       "source": "Sevastopol",
       "target": "Sochi",
-      "color": "gray",
+      "color": "yellow",
       "index": 0,
       "group": 0,
       "x1": 1434.783203125,
@@ -3269,7 +3269,7 @@
     {
       "source": "Sevastopol",
       "target": "Sochi",
-      "color": "gray",
+      "color": "yellow",
       "index": 1,
       "group": 0,
       "x1": 1495.1715087890625,
@@ -3317,7 +3317,7 @@
     {
       "source": "Venezia",
       "target": "Zagrab",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 725.439453125,
@@ -3328,7 +3328,7 @@
     {
       "source": "Venezia",
       "target": "Zagrab",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 786.6575317382812,
@@ -3446,7 +3446,7 @@
     {
       "source": "Wien",
       "target": "Zagrab",
-      "color": "gray",
+      "color": "brown",
       "index": 0,
       "group": 0,
       "x1": 857.1614990234375,
@@ -3457,7 +3457,7 @@
     {
       "source": "Wien",
       "target": "Zagrab",
-      "color": "gray",
+      "color": "brown",
       "index": 1,
       "group": 0,
       "x1": 852.3466186523438,
